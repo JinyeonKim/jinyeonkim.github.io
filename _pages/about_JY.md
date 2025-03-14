@@ -31,9 +31,9 @@ redirect_from:
 
 
 ## 🧑‍💼 Summary  
->I am a Post-Master Researcher at the [Machine Perception and Reasoning Lab](https://snumprlab.github.io/), [Seoul National University (SNU)](https://www.snu.ac.kr/), under the supervision of [Prof. Jonghyun Choi](https://ppolon.github.io/). My research focuses on Embodied AI, particularly in perception and planning/replanning. Prior to my M.S. studies, I worked as a researcher at the [Korea Electronics Technology Institute (KETI)](https://www.keti.re.kr/eng/main/main.php)’s Intelligent Image Processing Research Center from 2020 to 2021 as a researcher. 
+ >I am a Post-Master Researcher at the [Machine Perception and Reasoning Lab](https://snumprlab.github.io/), [Seoul National University (SNU)](https://www.snu.ac.kr/), under the supervision of [Prof. Jonghyun Choi](https://ppolon.github.io/). My research focuses on Embodied AI, particularly in perception and planning/replanning. Prior to my M.S. studies, I worked as a researcher at the [Korea Electronics Technology Institute (KETI)](https://www.keti.re.kr/eng/main/main.php)’s Intelligent Image Processing Research Center from 2020 to 2021 as a researcher. 
+ 
  >I am currently seeking an internship or a full-time position in embodied agent research.
-
 ----
 
 
